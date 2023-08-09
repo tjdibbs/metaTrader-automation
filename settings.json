@@ -1,4 +1,16 @@
 {
-    "login": 5012847310,
-    "password": "b6obtvqq"
+    "mt5_demo": [
+        {
+            "login": 5012847310,
+            "password": "b6obtvqq",
+            "server": "MetaQuotes-Demo",
+            "capital": 100000
+        },
+        {
+            "login": 5014944372,
+            "password": "giyl6opo",
+            "server": "MetaQuotes-Demo",
+            "capital": 3000
+        }
+    ]
 }
